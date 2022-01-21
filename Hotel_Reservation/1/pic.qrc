@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Pic/130-1300217_user-icon-member-icon-png-transparent-png.png</file>
+        <file>Pic/images.png</file>
+        <file>Pic/17241-200.png</file>
+        <file>Pic/hotelpic.jpg</file>
+        <file>Pic/white-wallpaper-14.jpg</file>
+        <file>Pic/sairu-hill-resorts.jpg</file>
+        <file>Pic/ppp.jpg</file>
+        <file>Pic/2ndpage.jpg</file>
+        <file>Pic/1st.jpg</file>
+    </qresource>
+</RCC>
